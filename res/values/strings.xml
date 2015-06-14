@@ -3,5 +3,7 @@
 
     <string name="app_name">HowOld</string>
     <string name="hello_world">Hello world!</string>
+    <string name="getImg">选择图片</string>
+    <string name="detect">检测</string>
 
 </resources>
