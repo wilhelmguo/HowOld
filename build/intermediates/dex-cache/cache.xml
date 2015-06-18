@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitHub\HowOld\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="605c447c20ca216b5556af9f215af5d4bba1b117">
+        <dex dex="D:\GitHub\HowOld\build\intermediates\pre-dexed\debug\android-support-v4-9e249f19d7b0415a824232a4a42636d09d9eabff.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\HowOld\libs\faceppsdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d3384595c699a5be231ad099b07b96741806750a">
+        <dex dex="D:\GitHub\HowOld\build\intermediates\pre-dexed\debug\faceppsdk-fb87f9786bdce6abfb708039644fc9af522dc654.jar" />
+    </item>
+
+</items>
