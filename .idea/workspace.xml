@@ -46,45 +46,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="info" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3acc5b1-f1c6-4c18-b9ce-259666e9b45a" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\Consts.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\FaceDetectUtil$1.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\FaceDetectUtil$CallBack.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\FaceDetectUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\classes\com\william\howold\R.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\dexedLibs\android-support-v4-40a474fb1dedd66199d45d0323957744.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\dexedLibs\android-support-v4-b7c71275b1eadef1cb2008ac0f21b214.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\dexedLibs\faceppsdk-f032c1b797824144a12cd124a294ad32.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\jarlist.cache" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\res\crunch\drawable-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\res\crunch\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\res\crunch\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\res\crunch\drawable-xxhdpi\female.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\res\crunch\drawable-xxhdpi\hint.9.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\res\crunch\drawable-xxhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\res\crunch\drawable-xxhdpi\male.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\AndroidDev\GitHub\HowOld\bin\resources.ap_" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/HowOld.apk" afterPath="$PROJECT_DIR$/bin/HowOld.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c3acc5b1-f1c6-4c18-b9ce-259666e9b45a" name="Default" comment="" />
     <ignored path="HowOld.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/intermediates/assets/" />
@@ -151,8 +113,8 @@
       <file leaf-file-name="ServerSocket.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../Sdk/sources/android-19/java/net/ServerSocket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6365639">
-              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.3370044">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
               <folding>
                 <element signature="e#0#15445#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -1268,17 +1230,17 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.33736762" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32823366" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32823366" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21635434" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21557719" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2767733" sideWeight="0.66187596" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24871466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24871466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1450,8 +1412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Sdk/sources/android-19/java/net/ServerSocket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6365639">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.3370044">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
           <folding>
             <element signature="e#0#15445#0" expanded="true" />
             <element signature="imports" expanded="true" />
