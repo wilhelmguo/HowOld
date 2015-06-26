@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_main">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="测测你的年龄"
+            android:textColor="#fff8f7bb"
+            android:textSize="28sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="How Old?"
+            android:textColor="#fff8f7bb"
+            android:textSize="28sp"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="2.0dp"
+        android:layout_marginLeft="2.0dp"
+        android:layout_marginRight="2.0dp"
+        android:layout_marginTop="10.0dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="300.0dp"
+            android:layout_height="370.0dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingTop="12.0dp">
+
+            <ImageView
+                android:id="@+id/imageSelect"
+                android:layout_width="270.0dp"
+                android:layout_height="270.0dp"
+                android:layout_margin="2.0dp"
+                android:background="@drawable/t5" />
+
+            <Button
+                android:id="@+id/select"
+                android:layout_width="270.0dp"
+                android:layout_height="55.0dp"
+                android:layout_margin="10.0dp"
+                android:text="选取照片"
+                android:background="@drawable/shape"
+                android:textColor="#ffffffff"
+                android:textSize="23.0sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayoutAdMob"
+            android:layout_width="fill_parent"
+            android:layout_height="50.0dp"
+            android:orientation="vertical" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/E:/AndroidDev/GitHub/HowOld/res/layout/main.xml -->
